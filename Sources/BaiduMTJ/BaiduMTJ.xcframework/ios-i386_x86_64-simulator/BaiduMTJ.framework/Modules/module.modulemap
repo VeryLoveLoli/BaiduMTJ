@@ -1,0 +1,6 @@
+framework module BaiduMTJ {
+  umbrella header "BaiduMTJ.h"
+
+  export *
+  module * { export * }
+}
